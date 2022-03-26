@@ -6,4 +6,4 @@
 3. In python interactive shell run:<br>
 from queueSystem import add<br>
 for i in range(0,1000):<br>
-  add.delay(i, i)
+  txt2speech.delay()
